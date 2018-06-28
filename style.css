@@ -13,4 +13,7 @@ img{
     height: 100px;
     width: 100px;
 }
-ul li{width: 30px}
+ul li{
+    width: 30px;
+    float: left;
+}
